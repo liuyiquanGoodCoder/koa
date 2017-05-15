@@ -1,0 +1,13 @@
+{
+  "name": "koa first",
+  "version": "1.0.0",
+  "description": "learn koa",
+  "athour": "lyq",
+  "dependencies": {
+    "koa": "~2.2.0"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-async-to-generator": "^6.24.1",
+    "babel-register": "^6.24.1"
+  }
+}
